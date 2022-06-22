@@ -58,6 +58,7 @@
                         <li><a href="index.php">Home</a></li>
                         <li><a href="cadastro.php">Cadastro</a></li>
                         <li><a href="inscritos.php" class="active">Inscritos</a></li>
+                        <li><a href="sair.php" class="active">Fazer Logout</a></li>
                     </ul>   
                     <a class='menu-trigger'>
                         <span>Menu</span>

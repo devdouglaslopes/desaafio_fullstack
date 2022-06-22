@@ -1,5 +1,5 @@
 <?php
    session_start();
    session_destroy();
-   header('Location: index.php?logout=ok');
+   header('Location: fazerlogin.php?logout=ok');
 ?>
