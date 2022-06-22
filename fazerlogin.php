@@ -30,7 +30,7 @@
 
 </head>
 
-<body id="topo">
+<body id="topo" style="background: #ad76ed;">
 
     <div class="container">
 
